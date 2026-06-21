@@ -1,5 +1,5 @@
 <h2>Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" alt="Wave icon">, I'm NOIMUL ISLAM JISHAN</h2>
-**A passionate Software Engineer || Graphics Designer || Academic Project Management || Python Django Developer | Machine Learning 
+**A passionate Data Analytics || Digital Marketing || Academic Project Management || Python Developer | Machine Learning 
 
 Email Me 👉 ✉️ **ncnoimul1@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
